@@ -1,46 +1,18 @@
-# Hi there, I'm Deno
+# 💫 About Me:
+Currently building modern digital experiences at DataBalk.<br>Previously managed Pulsbit Devs, a startup dedicated to delivering tailored web development solutions for various clients.<br>Transitioning to a BSc in Information Technology to merge academic foundations with practical engineering.<br>My sweet spot is working at the intersection of design and code, striving for Awwwards-level quality with seamless interactions and immersive 3D elements.
 
-I'm a Frontend Developer from South Africa passionate about crafting high-end, interactive, and heavily animated web experiences. 
 
-## Connect with me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/denodotexe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deno-rautenbach-b1698018a/) 
 
-* LinkedIn: [Link to your LinkedIn]
-* Twitter / X: [Link to your Twitter]
-* Portfolio: [Link to your Portfolio]
-* Email: [Your Email Address]
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DenoRautenbach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=DenoRautenbach&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DenoRautenbach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* Currently building modern digital experiences at DataBalk.
-* Previously managed Pulsbit Devs, a startup dedicated to delivering tailored web development solutions for various clients.
-* Transitioning to a BSc in Information Technology to merge academic foundations with practical engineering.
-* My sweet spot is working at the intersection of design and code, striving for Awwwards-level quality with seamless interactions and immersive 3D elements.
-
-## Tech Stack & Tools
-
-**Languages**
-* TypeScript
-* JavaScript
-* Java
-* HTML / CSS
-
-**Frameworks & Libraries**
-* React
-* Next.js
-* Three.js
-
-**Styling & Animation**
-* Tailwind CSS
-* GSAP
-
-## Current Projects
-
-* ZA World: Developing a free resource directory application to connect South African youth with vital educational and work opportunities.
-* PANEL PRESS: Building an interactive, graphic novel-themed web bookstore utilizing Three.js and GSAP for an immersive user experience.
-* Rautenbach Bank: Architecting a comprehensive retail banking simulation application in Java.
-
-## Beyond the Screen
-
-When I'm not writing code or refining web animations, you can find me:
-* Pushing through disciplined fitness regimens, balancing gym and cardio.
-* Grinding for the Lord proficiency rank in Marvel Rivals.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
